@@ -11,4 +11,6 @@ Ce projet consiste en la création d'un modèle fonctionnel de slider d'images e
 5. bash
 6. Copy code
 7. npm i
-8. npm run dev <br />Cette série de commandes va installer les dépendances nécessaires et lancer l'application en mode développement.
+8. npm run dev <br />
+
+#### _Cette série de commandes va installer les dépendances nécessaires et lancer l'application en mode développement._
